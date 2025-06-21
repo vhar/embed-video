@@ -1,0 +1,9 @@
+{
+    "Class for :alias is not defined": "Class for :alias is not defined",
+    "The argument must be a URL.": "The argument must be a URL.",
+    "There are no registered handlers for the domain :domain": "There are no registered handlers for the domain :domain",
+    "The argument must be a URL string.": "The argument must be a URL string.",
+    "The argument is not valid URL-address to a VK Video.": "The argument is not valid URL-address to a VK Video.",
+    "The argument is not valid URL-address to a Rutube video.": "The argument is not valid URL-address to a Rutube video.",
+    "The argument is not valid URL-address to a YouTube video.": "The argument is not valid URL-address to a YouTube video."
+}

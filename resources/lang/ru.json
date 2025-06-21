@@ -1,0 +1,9 @@
+{
+    "Class for :alias is not defined": "Класс для обработчика :alias не определен.",
+    "The argument must be a URL.": "Аргумент должен содержать URL адрес.",
+    "There are no registered handlers for the domain :domain": "Для домена :domain нет зарегистрированного обработчика.",
+    "The argument must be a URL string.": "Аргумент должен содержать URL адрес.",
+    "The argument is not valid URL-address to a VK Video.": "Аргумент сожержит не валидную ссылку на VK Video.",
+    "The argument is not valid URL-address to a Rutube video.": "Аргумент сожержит не валидную ссылку на Rutube видео.",
+    "The argument is not valid URL-address to a YouTube video.": "Аргумент сожержит не валидную ссылку на YouTube видео."
+}
